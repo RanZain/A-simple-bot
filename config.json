@@ -1,0 +1,8 @@
+{
+  "bot_prefix": "_PREFIX_YOUR_BOT",
+  "embed_color": "RANDOM",
+  "owner_id": "OWNER_ID",
+  "env": {
+    "TOKEN": "YOUR_TOKEN_BOT"  
+  }
+}
